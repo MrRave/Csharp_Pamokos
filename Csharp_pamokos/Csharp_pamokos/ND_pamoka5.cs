@@ -8,5 +8,8 @@ namespace Csharp_pamokos
 {
     class ND_pamoka5
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }
